@@ -232,7 +232,7 @@ This script takes as input the `_stacked.TextGrid` and creates the file `manualV
 
 This script takes as input the `_stacked.TextGrids` and creates as output `_stacked2.TextGrid`.
 
-### 11. Measure VOT and sentence rate
+### 10. Measure VOT and sentence rate
 
 [cueAnalysis_new.praat](https://www.eleanorchodroff.com/tutorial/scripts/cueAnalysis_new.praat){target="_blank"}
 
