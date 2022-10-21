@@ -2,5 +2,13 @@ doi: "10.5281/zenodo.7178545"
 author:
   name: "Eleanor Chodroff"
   url: "https://www.eleanorchodroff.com/"
+
+citation:
   container-title: "Linguistics Methods Hub"
   collection-title: "Linguistics Methods Hub"
+  
+image: "images/finalAutoVOT.png"
+twitter-card: 
+  image: "images/finalAutoVOT.png"
+open-graph:
+  image: "images/finalAutoVOT.png"
